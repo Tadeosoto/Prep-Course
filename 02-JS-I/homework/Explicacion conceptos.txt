@@ -1,0 +1,43 @@
+¿Que es una variable?
+
+En javascript es una forma de guardar una variable para poder usarla cuando sea necesario,
+ para hacer esto usamos el comando de letras "var", a esta misma variable le podemos asignar un valor con el comando "=".
+ Un ejemplo seria  usar el comando "var" como "nombre" y a su vez el "nombre" asignarle el valor de "tadeo".
+De esta manera la computadora nos devuelve el valor de "tadeo" cada que escribamos el valor de "nombre".
+
+
+
+¿Que son strings?
+
+Son bloques te texto que siempre van definidos entre comillas. Todos los textos entre comillas "" son cadenas o strings.
+
+
+
+¿Que son las funciones(argumentos, return)?
+
+Es una forma de agrupar el codigo que usaremos de manera repetitiva. Es como una manera de hacer trampa haciendo planas ya que
+no tienes que volver a escribir el codigo que usaras de nuevo solo los nuevos datos que quieres que tenga. Un ejemplo seria 
+hacer una presentacion de diferentes personas con el mismo saludo pero con diferentes nombres y edades.
+
+El return. Como una funcion toma un valor de entrada y da uno de salida lo que hace el "return" es finalizar completamente la funcion y 
+nos devuelve el valor pero no lo imprime en pantalla.
+
+
+
+
+¿Que son las declaraciones(if)? 
+
+Es una forma de ponerle condiciones a un codigo y que devuelva un resultado unicamente si la condicion es verdadera.
+Piensalo como si fuera un juego mecanico donde la condicion es que midas mas de 1.50m si mides mas de eso la condicion es verdadera y subes y si no, es falso, realizas nada.
+
+
+
+
+
+¿Que son los valores booleanos?
+
+Son valores de naturaleza binaria, es decir que hay 2 tipos, prender o apagar, 0 o 1, verdadero o falso. En javascript se usa verdadero o falso. De esta manera 
+la computadora interpreta esta logica y clasifica la informacion que le damos. Piensalo como si fueras un veterinario que separa los perritos machos de las hembras, solo hay 2 tipos.
+
+
+
